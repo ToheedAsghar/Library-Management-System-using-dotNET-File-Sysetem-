@@ -1,0 +1,14 @@
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\obj\Debug\net8.0\LibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\obj\Debug\net8.0\LibraryDAL.AssemblyInfoInputs.cache
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\obj\Debug\net8.0\LibraryDAL.AssemblyInfo.cs
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\obj\Debug\net8.0\LibraryDAL.csproj.CoreCompileInputs.cache
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\bin\Debug\net8.0\LibraryDAL.exe
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\bin\Debug\net8.0\LibraryDAL.deps.json
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\bin\Debug\net8.0\LibraryDAL.runtimeconfig.json
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\bin\Debug\net8.0\LibraryDAL.dll
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\bin\Debug\net8.0\LibraryDAL.pdb
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\obj\Debug\net8.0\LibraryDAL.dll
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\obj\Debug\net8.0\refint\LibraryDAL.dll
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\obj\Debug\net8.0\LibraryDAL.pdb
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\obj\Debug\net8.0\LibraryDAL.genruntimeconfig.cache
+C:\Users\Nabraas IV\source\repos\Presentation Layer\LibraryDAL\obj\Debug\net8.0\ref\LibraryDAL.dll
